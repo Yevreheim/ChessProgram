@@ -1,0 +1,9 @@
+C:\Users\Yehlemis\Dropbox\Uni Documents\Uni - 2020 - Semester 2\COS20007 - OOP\Custom\Classes\bin\Debug\netstandard2.0\ClassesLibrary.deps.json
+C:\Users\Yehlemis\Dropbox\Uni Documents\Uni - 2020 - Semester 2\COS20007 - OOP\Custom\Classes\bin\Debug\netstandard2.0\ClassesLibrary.dll
+C:\Users\Yehlemis\Dropbox\Uni Documents\Uni - 2020 - Semester 2\COS20007 - OOP\Custom\Classes\bin\Debug\netstandard2.0\ClassesLibrary.pdb
+C:\Users\Yehlemis\Dropbox\Uni Documents\Uni - 2020 - Semester 2\COS20007 - OOP\Custom\Classes\obj\Debug\netstandard2.0\ClassesLibrary.csprojAssemblyReference.cache
+C:\Users\Yehlemis\Dropbox\Uni Documents\Uni - 2020 - Semester 2\COS20007 - OOP\Custom\Classes\obj\Debug\netstandard2.0\ClassesLibrary.AssemblyInfoInputs.cache
+C:\Users\Yehlemis\Dropbox\Uni Documents\Uni - 2020 - Semester 2\COS20007 - OOP\Custom\Classes\obj\Debug\netstandard2.0\ClassesLibrary.AssemblyInfo.cs
+C:\Users\Yehlemis\Dropbox\Uni Documents\Uni - 2020 - Semester 2\COS20007 - OOP\Custom\Classes\obj\Debug\netstandard2.0\ClassesLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Yehlemis\Dropbox\Uni Documents\Uni - 2020 - Semester 2\COS20007 - OOP\Custom\Classes\obj\Debug\netstandard2.0\ClassesLibrary.dll
+C:\Users\Yehlemis\Dropbox\Uni Documents\Uni - 2020 - Semester 2\COS20007 - OOP\Custom\Classes\obj\Debug\netstandard2.0\ClassesLibrary.pdb

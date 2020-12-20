@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QvNCpAqVwnW8DgbMrsZul0v71dQwoygEL0qygAPzbuq9OOwtOYeLJUk8hgqQiPCpdj5PFeCd/6rAg3MfaZ052g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yehlemis\\Dropbox\\Uni Documents\\Uni - 2020 - Semester 2\\COS20007 - OOP\\Custom\\Classes\\ClassesLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yehlemis\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Yehlemis\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
